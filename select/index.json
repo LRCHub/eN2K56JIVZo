@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "絆創膏",
+  "base_artist": "金子みゆ",
+  "createdAt": "2026-02-15T16:18:02.329686Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "絆創膏",
+      "artist": "みきとP feat. 鏡音レン",
+      "has_synced": false,
+      "path": "select/01_絆創膏_みきとP_feat._鏡音レン.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "絆創膏",
+      "artist": "SHISHAMO",
+      "has_synced": false,
+      "path": "select/02_絆創膏_SHISHAMO.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "絆創膏 feat.初音ミク",
+      "artist": "MikitoP",
+      "has_synced": false,
+      "path": "select/03_絆創膏_feat.初音ミク_MikitoP.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "絆創膏",
+      "artist": "Mikitop",
+      "has_synced": false,
+      "path": "select/04_絆創膏_Mikitop.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "絆創膏",
+      "artist": "Hatsune Miku",
+      "has_synced": false,
+      "path": "select/05_絆創膏_Hatsune_Miku.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "絆創膏",
+      "artist": "金子みゆ",
+      "has_synced": false,
+      "path": "select/pl_01_絆創膏_金子みゆ.txt"
+    }
+  ]
+}
